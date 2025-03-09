@@ -25,8 +25,6 @@ $ flutter pub get
 $ flutter run
 ```
 
-## 📸 Screenshots
-*(Add screenshots here if needed)*
 
 ## 🛠 Built With
 - **Flutter** - Cross-platform UI toolkit
