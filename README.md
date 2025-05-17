@@ -33,8 +33,7 @@ $ flutter run
 ## 🤝 Contributing
 This was a fun personal project, but feel free to fork it and experiment!
 
-## 📄 License
-This project is open-source and free to use.
+
 
 ---
 ✨ Made for fun with Flutter 🚀
